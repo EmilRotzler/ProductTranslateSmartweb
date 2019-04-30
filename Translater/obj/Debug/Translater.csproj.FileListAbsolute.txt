@@ -1,0 +1,8 @@
+C:\Users\Emil Rotzler\Desktop\Translater\Translater\bin\Debug\Translater.exe.config
+C:\Users\Emil Rotzler\Desktop\Translater\Translater\bin\Debug\Translater.exe
+C:\Users\Emil Rotzler\Desktop\Translater\Translater\bin\Debug\Translater.pdb
+C:\Users\Emil Rotzler\Desktop\Translater\Translater\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Emil Rotzler\Desktop\Translater\Translater\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Emil Rotzler\Desktop\Translater\Translater\obj\Debug\Translater.csprojResolveAssemblyReference.cache
+C:\Users\Emil Rotzler\Desktop\Translater\Translater\obj\Debug\Translater.exe
+C:\Users\Emil Rotzler\Desktop\Translater\Translater\obj\Debug\Translater.pdb
